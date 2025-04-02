@@ -12,7 +12,8 @@ Cool concept, but if you really wanted to, you could achieve the exact same thin
 Run it - your internet traffic is routed accordingly. Then you can fire up any old chatroom and rejoice in your geographical anonymity.
 
 
-I'll take this apart and rebuild it befitting someone with actual tech-literacy, and update this readme.
+I'll take this apart and rebuild it befitting someone with actual tech-literacy - you know, not using flask for starters.
+I'll go through react, and see if I can set up a rotating proxy instead of a static instance.
 
 
 THIS IS NOT A CURRENT PROJECT | THIS IS NOT A REPRESENATION OF ME AS A DEVELOPER, OR A HUMAN BEING
